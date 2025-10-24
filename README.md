@@ -9,49 +9,12 @@ Estudante de Análise e Desenvolvimento de Sistemas em busca da minha primeira o
 
 ---
 
-### 💻 Tecnologias e Ferramentas
-
-Aqui estão algumas tecnologias que estou aprendendo e outras que quero me aprofundar:
-
-* **Fundamentos (Já utilizei):**
-    * `HTML5`
-    * `CSS3`
-    * `JavaScript`
-    * `SQLite`
-* **Estou focado em aprender:**
-    * `Python`
-    * `React`
-    * `Git`
-    * `MySQL`
-    * `Oracle`
-
----
-
 ### 📫 Onde me encontrar
 
-* **LinkedIn:** [Thales Tadeu](https://www.linkedin.com/in/thales-tadeu-04874b2b9/)
-* **E-mail:** thalestadeu18@gmail.com
-
-<p align="left">
-    <a href="https://github.com/thalestadeu18?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/thalestadeu18?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/thalestadeu18?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/thalestadeu18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+* **LinkedIn:** [thales-tadeu](https://www.linkedin.com/in/thales-tadeu/)
+* **E-mail:** [thalestadeu18@gmail.com](mailto:thalestadeu18@gmail.com)
 
 ---
-
-### 🤖 Linguagens e Tecnologias
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -130,6 +93,8 @@ Aqui estão algumas tecnologias que estou aprendendo e outras que quero me aprof
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
